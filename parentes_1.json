@@ -1,0 +1,180 @@
+{
+    "data": [
+        {
+            "id": "3599",
+            "parent_exercise_id": "3599",
+            "name": "Data Type",
+            "slug": "js-dataTypes__DataTypes/Introduction",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/Introduction.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3600",
+            "parent_exercise_id": "3599",
+            "name": "String",
+            "slug": "js-dataTypes__DataTypes/String",
+            "sequence_num": 1,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/String.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3601",
+            "parent_exercise_id": "3599",
+            "name": "Exercises on Strings",
+            "slug": "js-dataTypes__DataTypes/StringExercises",
+            "sequence_num": 2,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/StringExercises.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3602",
+            "parent_exercise_id": "3599",
+            "name": "Number",
+            "slug": "js-dataTypes__DataTypes/Number",
+            "sequence_num": 3,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/Number.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3603",
+            "parent_exercise_id": "3599",
+            "name": "Exercises on Numbers",
+            "slug": "js-dataTypes__DataTypes/NumberExercises",
+            "sequence_num": 4,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/NumberExercises.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3604",
+            "parent_exercise_id": "3599",
+            "name": "Boolean",
+            "slug": "js-dataTypes__DataTypes/Boolean",
+            "sequence_num": 5,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/Boolean.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3605",
+            "parent_exercise_id": "3599",
+            "name": "Exercises on Booleans",
+            "slug": "js-dataTypes__DataTypes/BooleanExercises",
+            "sequence_num": 6,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/BooleanExercises.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3606",
+            "parent_exercise_id": "3599",
+            "name": "Undefined",
+            "slug": "js-dataTypes__DataTypes/Undefined",
+            "sequence_num": 7,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/Undefined.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3607",
+            "parent_exercise_id": "3599",
+            "name": "Null",
+            "slug": "js-dataTypes__DataTypes/Null",
+            "sequence_num": 8,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/Null.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3608",
+            "parent_exercise_id": "3599",
+            "name": "Null vs Undefined",
+            "slug": "js-dataTypes__DataTypes/Diff-btw-null-defined",
+            "sequence_num": 9,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/Diff-btw-null-defined.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3609",
+            "parent_exercise_id": "3599",
+            "name": "Object",
+            "slug": "js-dataTypes__DataTypes/Object",
+            "sequence_num": 10,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/Object.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3610",
+            "parent_exercise_id": "3599",
+            "name": "Exercises on Objects",
+            "slug": "js-dataTypes__DataTypes/ObjectExercises",
+            "sequence_num": 11,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/ObjectExercises.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3611",
+            "parent_exercise_id": "3599",
+            "name": "Array",
+            "slug": "js-dataTypes__DataTypes/Array",
+            "sequence_num": 12,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/Array.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3612",
+            "parent_exercise_id": "3599",
+            "name": "Exercises on Arrays",
+            "slug": "js-dataTypes__DataTypes/ArrayExercises",
+            "sequence_num": 13,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/ArrayExercises.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3613",
+            "parent_exercise_id": "3599",
+            "name": "TypeOf",
+            "slug": "js-dataTypes__DataTypes/TypeOf",
+            "sequence_num": 14,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/TypeOf.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3614",
+            "parent_exercise_id": "3599",
+            "name": "Exercises on TypeOf",
+            "slug": "js-dataTypes__DataTypes/TypeOfExercises",
+            "sequence_num": 15,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/js-dataTypes/DataTypes/TypeOfExercises.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}

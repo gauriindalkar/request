@@ -1,0 +1,12 @@
+{
+    "id": "2402",
+    "parent_exercise_id": "2396",
+    "name": "Data Structure questions",
+    "slug": "interviewQuestions__Python/Part5",
+    "sequence_num": 2004,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"1. Is Strings mutable or immutable ?\\n\\n\\n 2. Is dictionary structure   ordered or unordered.\\n\\n\\n 3. Is Tuple, mutable or immutable ?\\n\\n\\n 4.Difference between tuple and list . 5. Difference between 2d and 3d arrays.\\n`Example :- chess `.\\n\\n\\n 6. Which sorting method is fast ?\\n\\n\\n 7. What is binary search ?\\n\\n\\n \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part5.md"
+}

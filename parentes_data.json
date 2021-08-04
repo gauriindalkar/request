@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "id": "2398",
+            "parent_exercise_id": null,
+            "name": "Interview Questions",
+            "slug": "interviewQuestions__intro",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/intro.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2396",
+            "parent_exercise_id": "2396",
+            "name": "Basic Questions",
+            "slug": "interviewQuestions__Python/intro",
+            "sequence_num": 2000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/intro.md",
+            "submission_type": "url",
+            "childExercises": [
+                {
+                    "id": "2400",
+                    "parent_exercise_id": "2396",
+                    "name": "Basic Questions",
+                    "slug": "interviewQuestions__Python/Part1",
+                    "sequence_num": 2001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2401",
+                    "parent_exercise_id": "2396",
+                    "name": "Loop questions",
+                    "slug": "interviewQuestions__Python/Part3",
+                    "sequence_num": 2002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2403",
+                    "parent_exercise_id": "2396",
+                    "name": "Functions questions",
+                    "slug": "interviewQuestions__Python/Part4",
+                    "sequence_num": 2003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part4.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2402",
+                    "parent_exercise_id": "2396",
+                    "name": "Data Structure questions",
+                    "slug": "interviewQuestions__Python/Part5",
+                    "sequence_num": 2004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part5.md",
+                    "submission_type": "url"
+                }
+            ]
+        },
+        {
+            "id": "2397",
+            "parent_exercise_id": "2397",
+            "name": "Js Questions",
+            "slug": "interviewQuestions__Js/intro",
+            "sequence_num": 3000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Js/intro.md",
+            "submission_type": "url",
+            "childExercises": [
+                {
+                    "id": "2399",
+                    "parent_exercise_id": "2397",
+                    "name": "Part 1",
+                    "slug": "interviewQuestions__Js/Part1",
+                    "sequence_num": 3001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Js/Part1.md",
+                    "submission_type": "url"
+                }
+            ]
+        }
+    ]
+}
