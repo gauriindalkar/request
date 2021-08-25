@@ -366,13 +366,6 @@
             "short_description": "Learning Basics of using GIT"
         },
         {
-            "id": "88",
-            "name": "JavaScript 101",
-            "type": "html",
-            "logo": "https://bit.ly/2S2Y1un",
-            "short_description": "We will learn basics of programming using JavaScript in this course."
-        },
-        {
             "id": "96",
             "name": "Hackathon Projects",
             "type": "html",
@@ -385,13 +378,6 @@
             "type": "html",
             "logo": "https://bit.ly/2zp7YLR",
             "short_description": "English learning"
-        },
-        {
-            "id": "97",
-            "name": "Introduction to Javascript",
-            "type": "html",
-            "logo": "https://bit.ly/2S2Y1un",
-            "short_description": "Hindi Tutorials to learn to write code in javascript"
         },
         {
             "id": "91",
@@ -504,13 +490,6 @@
             "type": "js",
             "logo": "http://navgurukul.org/img/sqlogo.jpg",
             "short_description": "Iss topic mai hum JavaScript ke Arrays ke bare mai janege"
-        },
-        {
-            "id": "128",
-            "name": "Javascript Introduction ",
-            "type": "js",
-            "logo": "http://navgurukul.org/img/sqlogo.jpg",
-            "short_description": "We will discuss about javascript introduction, how to install node in your laptop and run first program."
         },
         {
             "id": "130",

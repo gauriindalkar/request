@@ -1,0 +1,169 @@
+{
+    "data": [
+        {
+            "id": "3493",
+            "parent_exercise_id": null,
+            "name": "v, n and b",
+            "slug": "bottom-row-tg__keys_v_n_b",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_v_n_b.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3498",
+            "parent_exercise_id": null,
+            "name": "c and m",
+            "slug": "bottom-row-tg__keys_c_m",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_c_m.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3500",
+            "parent_exercise_id": null,
+            "name": "v and m",
+            "slug": "bottom-row-tg__keys_v_m",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_v_m.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3499",
+            "parent_exercise_id": null,
+            "name": "x and .",
+            "slug": "bottom-row-tg__keys_x_dot",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_x_dot.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3494",
+            "parent_exercise_id": null,
+            "name": "z and .",
+            "slug": "bottom-row-tg__keys_z_dot",
+            "sequence_num": 400,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_z_dot.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3495",
+            "parent_exercise_id": null,
+            "name": "b and n",
+            "slug": "bottom-row-tg__keys_b_n",
+            "sequence_num": 500,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_b_n.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3496",
+            "parent_exercise_id": null,
+            "name": "z, c and n",
+            "slug": "bottom-row-tg__keys_z_c_n",
+            "sequence_num": 700,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_z_c_n.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3502",
+            "parent_exercise_id": null,
+            "name": "z and /",
+            "slug": "bottom-row-tg__keys_z_fslash",
+            "sequence_num": 800,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_z_fslash.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3501",
+            "parent_exercise_id": null,
+            "name": "c and ,",
+            "slug": "bottom-row-tg__keys_c_comma",
+            "sequence_num": 900,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_c_comma.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3508",
+            "parent_exercise_id": null,
+            "name": "c, v, b, n",
+            "slug": "bottom-row-tg__keys_c_v_b_n",
+            "sequence_num": 1000,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_c_v_b_n.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3503",
+            "parent_exercise_id": null,
+            "name": "v, m and ,",
+            "slug": "bottom-row-tg__keys_v_m_comma",
+            "sequence_num": 1100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_v_m_comma.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3504",
+            "parent_exercise_id": null,
+            "name": "x, . and /",
+            "slug": "bottom-row-tg__keys_x_dot_fslash",
+            "sequence_num": 1200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_x_dot_fslash.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3507",
+            "parent_exercise_id": null,
+            "name": "x, c, ., /",
+            "slug": "bottom-row-tg__keys_x_c_dot_fslash",
+            "sequence_num": 1300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_x_c_dot_fslash.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3505",
+            "parent_exercise_id": null,
+            "name": "z, v, m, /",
+            "slug": "bottom-row-tg__keys_z_v_m_fslash",
+            "sequence_num": 1400,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_z_v_m_fslash.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3506",
+            "parent_exercise_id": null,
+            "name": "z,x,., /",
+            "slug": "bottom-row-tg__keys_z_x_dot_fslash",
+            "sequence_num": 1500,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/bottom-row-tg/keys_z_x_dot_fslash.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
